@@ -1,7 +1,7 @@
 ### Olá, sou a Josiane Floriani! 💜
 
 
-- 🔭 Atualmente estou em busca de uma oportunidade como Analista de testes.
+- 🔭 Atualmente estou em busca de uma oportunidade como Desenvolvedora Jr.
 - 📜 Estou cursando a graduação de Análise e Desenvolvimento de Sistemas.
 - 🌱 Estudando JavaScript, Python e automação de testes com Cypress e Robot.
 - ⚡ Ampliando meus conhecimentos em API e testes usando Postman, bancos de dados como SQL Server e MongoDB
