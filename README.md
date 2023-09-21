@@ -3,8 +3,8 @@
 
 - 🔭 Atualmente estou em busca de uma oportunidade como Desenvolvedora Jr.
 - 📜 Estou cursando a graduação de Análise e Desenvolvimento de Sistemas.
-- 🌱 Estudando JavaScript, Python e automação de testes com Cypress e Robot.
-- ⚡ Ampliando meus conhecimentos em API e testes usando Postman, bancos de dados como SQL Server e MongoDB
+- 🌱 Estudando C# com .NET.
+- ⚡ Ampliando meus conhecimentos em API e bancos de dados como SQL Server e MongoDB
 
 ![Josi's GitHub stats](https://github-readme-stats.vercel.app/api?username=josifloriani&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josifloriani&hide_progress=true&theme=dracula)](https://github.com/josifloriani/github-readme-stats)
@@ -13,6 +13,7 @@
   
 📝 Alguns Cursos, Imersões e Eventos:
 
+- Bootcamp Desenvolvimento .NET e QA - DIO
 - Testes Automatizados com Cypress do básico ao avançado - Udemy
 - Automação de Testes com Robot Framework - Básico - Udemy
 - Quality Assurence - Qa.Coders
