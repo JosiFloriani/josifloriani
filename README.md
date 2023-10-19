@@ -1,4 +1,4 @@
-### Olá, sou a Josiane Floriani! 💜
+### Olá, sou a Josiane Teixeira! 💜
 
 
 - 🔭 Atualmente estou em busca de uma oportunidade como Analista de Testes.
