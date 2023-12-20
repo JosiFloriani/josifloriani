@@ -1,4 +1,4 @@
-### Olá, sou a Josiane Teixeira! 💜
+### Olá, sou a Josiane Floriani! 💜
 
 
 - 🔭 Atualmente sou estágia de QA.
