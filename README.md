@@ -1,13 +1,13 @@
 ### Olá, sou a Josiane Teixeira! 💜
 
 
-- 🔭 Atualmente estou em busca de uma oportunidade como Analista de Testes.
+- 🔭 Atualmente sou estágia de QA.
 - 📜 Estou cursando a graduação de Análise e Desenvolvimento de Sistemas.
 - 🌱 Estudando Cypress e Postman.
 - ⚡ Ampliando meus conhecimentos em API e bancos de dados como SQL Server e MongoDB.
 
-![Josi's GitHub stats](https://github-readme-stats.vercel.app/api?username=josifloriani&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josifloriani&hide_progress=true&theme=dracula)](https://github.com/josifloriani/github-readme-stats)
+![Josi's GitHub stats](https://github-readme-stats.vercel.app/api?username=josianefloriani&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josianefloriani&hide_progress=true&theme=dracula)](https://github.com/josifloriani/github-readme-stats)
 
 ##
   
@@ -50,6 +50,6 @@
    
   <a href="https://instagram.com/josifloriani" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:josianeteixeira22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/josifloriani" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/josianefloriani" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
